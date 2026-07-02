@@ -1,0 +1,14 @@
+{
+  "name": "callirene-birthday",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A private birthday website for Salma (Callirene) 💗",
+  "type": "module",
+  "scripts": {
+    "build": "node build/build.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.2",
+    "staticrypt": "^3.5.0"
+  }
+}

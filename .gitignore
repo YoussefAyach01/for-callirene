@@ -1,0 +1,6 @@
+# PRIVATE CONTENT — never push plaintext to the public repo!
+src/
+assets/
+build/tmp/
+
+node_modules/
